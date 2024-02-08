@@ -14,9 +14,14 @@ MicroPython is a lean implementation of the Python 3 programming language optimi
 
 Raspberry Pi Pico is a microcontroller board developed by the Raspberry Pi Foundation, featuring the RP2040 microcontroller chip. It offers a wide range of GPIO pins, ADC channels, and support for various communication protocols such as UART, SPI, and I2C. Raspberry Pi Pico supports MicroPython as one of its primary programming languages, enabling rapid development and prototyping of embedded projects.
 
+![raspberry_pi_pico_w_pinout](https://github.com/m19yurttutar/pico-lte/assets/76749251/0e6dcc5c-051d-427d-b459-58a1f26d35b7)
+
+
 ### Sixfab Pico LTE
 
 Sixfab Pico LTE is an expansion board designed to provide LTE connectivity to the Raspberry Pi Pico. It features a Quectel BG96 module for LTE Cat-M1/NB1/EGPRS connectivity, allowing for cellular communication in IoT applications. The expansion board integrates antennas and SIM card slots, making it a compact solution for adding cellular connectivity to Raspberry Pi Pico projects.
+
+![sixfab-pico-lte-development-card-46728-12-O](https://github.com/m19yurttutar/pico-lte/assets/76749251/3cc5f9b2-0f8e-4888-bd9f-a2ff6f2fd84f)
 
 ## References
 
