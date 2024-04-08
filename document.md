@@ -32,6 +32,8 @@ Let's get started!
 
    Create your organization by naming it. You can also configure optional fields according to your needs.
 
+   > **Note:** The organization creation process may be automatic for those who register for the first time. In this case, create a new organization or continue the guide from the next stage.
+
    ![Create an Organization](/assets/1.png)
    ![Name Your Organization](/assets/2.png)
    ![Create Organization](/assets/3.png)
@@ -39,6 +41,8 @@ Let's get started!
 3. Create a New Project
 
    Create your project, in which you will deploy your database with various configurations.
+
+   > **Note:** The project creation process may be automatic for those who register for the first time. In this case, create a new project or continue the guide from the next stage.
 
    ![New Project](/assets/4.png)
    ![Name Your Project](/assets/5.png)
@@ -57,6 +61,8 @@ Let's get started!
    - Change settings such as provider and region according to your preference. These settings may affect the response speed you will receive in the project.
 
    - Click Create Deployment button for creating your deployment.
+
+   > **Note:** After clicking the "Create deployment" button, you can proceed to the next stage by closing the **"Connect to [CLUSTER_NAME]"** page. This process is not required since performs authorization with API KEY in the application.
 
    ![Name Your Project](/assets/8.png)
 
